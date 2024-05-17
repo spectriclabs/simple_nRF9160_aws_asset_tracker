@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "nrf_clock_control.h": "c",
+        "log.h": "c",
+        "conn_mgr_connectivity.h": "c",
+        "lte_lc.h": "c",
+        "nrf_modem_lib.h": "c",
+        "modem_module.h": "c",
+        "modem_key_mgmt.h": "c",
+        "modem_info.h": "c",
+        "location.h": "c",
+        "json.h": "c",
+        "json_common.h": "c"
+    }
+}
